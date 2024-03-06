@@ -1,6 +1,5 @@
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/337d9dd0-8959-4f35-bf86-f606fea32caf-profile_banner-480.png"></img>
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
+
 <div allign = "center">
 
 <h1><i>Hello, my name is Jasanias</i></h1>
