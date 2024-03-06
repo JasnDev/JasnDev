@@ -8,6 +8,7 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
+          </script>
 </svg>
 <h1><i>Hello, my name is Jasanias</i></h1>
 <h1><i>i am learning web development.</i></h1>
