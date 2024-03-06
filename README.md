@@ -1,4 +1,5 @@
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/337d9dd0-8959-4f35-bf86-f606fea32caf-profile_banner-480.png"></img>
+<div align = "center">
 <h1>Hello, my name is Jasanias</h1>
 <h1>i am learning web development.</h1>
 
@@ -7,3 +8,4 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </img>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> </img>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> </img>
+</div>
