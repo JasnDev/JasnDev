@@ -1,5 +1,18 @@
 <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/337d9dd0-8959-4f35-bf86-f606fea32caf-profile_banner-480.png"></img>
 <div align = "center">
+  h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
 <h1><i>Hello, my name is Jasanias</i></h1>
 <h1><i>i am learning web development.</i></h1>
 
