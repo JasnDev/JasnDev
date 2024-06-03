@@ -1,5 +1,3 @@
-
-
 <div align = "center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVndndtZmxmNmp1Y2EyM3IzNGNhYXRoaDB5emtkc3g4aGJzMXN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif"></img>
 <h1><i>Hello, my name is Jasanias</i></h1>
